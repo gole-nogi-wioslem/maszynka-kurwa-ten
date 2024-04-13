@@ -1,2 +1,2 @@
 # maszynka-kurwa-ten
-calkiem dobrze napierdala
+napierdala port 22 calkiem dobrze sprawnie pali rutery testowane wiele razy pozdro
